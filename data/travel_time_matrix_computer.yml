@@ -1,5 +1,5 @@
 date: 2023-02-15
-osm_history_file: finland-internal.osh.pbf
+osm_history_file: pääkaupunkiseutu.osh.pbf
 origins_destinations: YKR_250m_PKS.gpkg
 gtfs_data_sets: 
     - HSL_20230215-20230228_gtfs.zip
